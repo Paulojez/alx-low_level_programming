@@ -1,5 +1,5 @@
-@@ -0,0 +1,12 @@
 #include <stdio.h>
+
 /**
  * main - Entry point
  *
